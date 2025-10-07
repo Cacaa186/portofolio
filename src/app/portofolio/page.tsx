@@ -178,11 +178,11 @@ export default function Me() {
               <div className='text-4xl mt-70 item-center justify-center text-center'>
                 Contact Me
               </div>
-              <div className='bg-white border-lime-300 border-3 rounded-md ml-17 mt-15 w-330 h-150'>
+              <div className='bg-white border-lime-300 border-3 rounded-md ml-17 mt-15 w-200 h-150'>
                 <input
                   type="email"
                   placeholder="Email"
-                  className="w-310 mb-4 p-3 rounded-lg bg-gray-200 text-gray-400 border-2 border-lime-300 focus:outline-none focus:ring-2 focus:ring-lime-300 mt-10 ml-10" />
+                  className="w-190 mb-4 p-3 rounded-lg bg-gray-200 text-gray-400 border-2 border-lime-300 border-2 border-lime-300 mt-10 ml-10" />
 
                 <input
                   type="text"
